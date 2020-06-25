@@ -1,1 +1,1 @@
-# jnwaters.githib.io
+# jnwaters.github.io
